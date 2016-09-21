@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
 body{
-	color: #2c3e50;
+	color: #572d24;
 }
 
 .sidebar {
@@ -34,7 +34,7 @@ a.nav-link {
 a.nav-link i{
 	font-size: 16px;
 }
-a.nav-link:hover { color: #777; }
+a.nav-link:hover { color: #666; }
 
 #bio {
 	font-family: "Courier New", Courier, monospace;

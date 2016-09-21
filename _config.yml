@@ -19,12 +19,12 @@ defaults:
 description: Stylish Jekyll Theme
 author:
   name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
+  email: accidentfactory@yahoo.com
+  github: minorfires
+  twitter: minorfires
   pinterest: asd123
   linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  bio: A stylish, minimalist theme I stole from dbyll!
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
@@ -35,6 +35,7 @@ tags_path: tags.html
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
 BASE_PATH:
+
 
 gems:
   - jekyll-paginate
