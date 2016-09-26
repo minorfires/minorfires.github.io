@@ -7,7 +7,7 @@ fullview: true
 comments: true
 ---
 
-# Here is my concern.
+## Here is my concern.
 
 - - - - - -
 
@@ -21,4 +21,5 @@ _there's suddenly a beanbag,_ one ball is __pointy__ somehow.
 ~~noise~~
 ~~noise~~
 
-[This is another type of noise.](https://minorfires.bandcamp.com/releases)
+This is another type of [noise.](https://minorfires.bandcamp.com/releases)
+Though the link syntax is still faulty for some reason.
