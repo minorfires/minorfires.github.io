@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
 body{
-	color: #572d24;
+	color: #5664bd;
 }
 
 .sidebar {
@@ -27,8 +27,8 @@ body{
 }
 
 a.nav-link {
-	padding-bottom: 5px;
-	padding-top: 7px;
+	padding-bottom: 20px;
+	padding-top: 20px;
 	color: #aaa;
 }
 a.nav-link i{
@@ -69,11 +69,11 @@ article .share .twitter:hover {
 	color: #e74c3c;
 }
 article .share .facebook:hover {
-	color: #43609C;
+	color: #ffffff;
 	border-color: #43609C;
 }
 article .share .gplus:hover {
-	color: #C13929;
+	color: #ffffff;
 	border-color: #C13929;
 }
 
