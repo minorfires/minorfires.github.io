@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Help, World!
+title: A frolic through imaginary fields.
 categories: [general, sample]
 tags: [demo, dbtek, sample2]
 fullview: true
@@ -17,6 +17,9 @@ comments: true
 
 ## Let's say two.
 ======
+#### Two more.
+======
+------
 
 just for fun and curiosity...which is the point if there is one.
 
