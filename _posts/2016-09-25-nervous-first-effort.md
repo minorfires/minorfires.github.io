@@ -16,11 +16,13 @@ comments: true
 **Many** languages come into play and *multiple* formats for new initiates to juggle
 *May* cause ~~information~~ to not ~~sink in,~~ as some balls are heavier than others,
 _there's suddenly a beanbag,_ one ball is __pointy__ somehow.
-
-~~noise~~
-~~noise~~
-~~noise~~
+<hr/>
+It is difficult to not turn the juggling of formats into<br>
+~~noise~~ ~~noise~~ ~~noise~~
+~~noise~~ ~~noise~~ ~~noise~~
+~~noise~~ ~~noise~~ ~~noise~~<br>
+but there is shelter in layers of attempts and successes and failures through multiple commits along the journey. <br> Not [Journey](https://www.youtube.com/watch?v=jdj8APyqvqw).<br>
 
 This is another type of [noise](https://minorfires.bandcamp.com/releases) 
-and there is a visual complement as well: ![photo of cut porcelain](http://artsake.massculturalcouncil.org/blog/artsake/wp-content/uploads/2013/09/Tea.jpg)<br>
+and there is a visual complement as well:<br> ![photo of cut porcelain](http://artsake.massculturalcouncil.org/blog/artsake/wp-content/uploads/2013/09/Tea.jpg)<br>
 This is a learning experience, and it's not as hard as drinking from this cup would be, or as making it was.
