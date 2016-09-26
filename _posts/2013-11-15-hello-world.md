@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Hello World!
+title: Help, World!
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
 comments: true
 ---
 
-**dbyll** is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.  
+**dbyll** is a <a href="http://http://stephaniezimbalist.net/">Zimbalist</a>, okay-ish theme for Jekyll. Supports <a href="http://my.ign.com/atari/gravitar">Gravitar</a>, account links (github, twitter, e-mail, pinterest, résume file) and a bio.  
 
 **dbyll** is brought to you by **[dbtek](http://ismaildemirbilek.com)**. Open sourced under [MIT](http://opensource.org/licenses/MIT) license.
 
-### dbyll is on GitHub
+### dbyll is in a space somewhere between Heaven and Hell
 
-<a class="btn btn-default" href="https://github.com/dbtek/dbyll">Grab your copy now!</a>
+<a class="btn btn-default" href="https://github.com/dbtek/dbyll">Go back to the beginning!</a>
