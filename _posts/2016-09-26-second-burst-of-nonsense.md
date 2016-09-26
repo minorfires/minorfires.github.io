@@ -13,13 +13,17 @@ comments: true
 ## just to see how it comes out.
 
 ### Then, a line or two about how lines work.
-======
+
+<hr/>
 
 ## Let's say two.
-======
+
+<hr/>
+<hr/>
+
 #### Two more.
-======
-------
+
+<hr/><hr/>
 
 just for fun and curiosity...which is the point if there is one.
 
