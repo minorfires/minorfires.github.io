@@ -22,4 +22,4 @@ _there's suddenly a beanbag,_ one ball is __pointy__ somehow.
 ~~noise~~
 
 This is another type of [noise.](https://minorfires.bandcamp.com/releases)
-Though the link syntax is still faulty for some reason.
+Though the link syntax is still faulty for some reason, causing the URL to show in the list view.
