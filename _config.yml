@@ -18,12 +18,10 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
+  name: Todd
   email: accidentfactory@yahoo.com
   github: minorfires
   twitter: minorfires
-  pinterest: asd123
-  linkedin: asd123
   bio: A stylish, minimalist theme I stole from dbyll!
   email_md5: 726351295ec82e145928582f595aa3aa
 

@@ -18,6 +18,6 @@ author:
   pinterest: asd123  
   linkedin: asd123  
   resume: asd123  
-  bio: Your stylish,  minimalist theme!  
+  bio: I seem to have an `assets` folder both inside and outside my `site` folder. I wonder which of my problems root back to this.
   email_md5: md5ofemail  
 {% endhighlight %}
