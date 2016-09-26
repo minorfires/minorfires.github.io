@@ -21,4 +21,4 @@ _there's suddenly a beanbag,_ one ball is __pointy__ somehow.
 ~~noise~~
 ~~noise~~
 
-This is another type of <a href="https://minorfires.bandcamp.com/releases>noise.</a>
+This is another type of noise.(https://minorfires.bandcamp.com/releases)
