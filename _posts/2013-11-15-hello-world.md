@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Help, World!
+title: Help, World! (it's all right, really. only a test.)
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
