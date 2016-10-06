@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: In the House of Butter [a dog]
+      title: In the House of Butter 
 
 description: Stylish Jekyll Theme
 author:
