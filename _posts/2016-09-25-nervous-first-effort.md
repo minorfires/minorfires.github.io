@@ -24,6 +24,6 @@ but there is shelter in layers of attempts and successes and failures through mu
 
 This is another type of [noise](https://minorfires.bandcamp.com/releases), conceived by the author.
 
-##and there is a visual complement as well:<br> ![photo of cut porcelain](http://artsake.massculturalcouncil.org/blog/artsake/wp-content/uploads/2013/09/Tea.jpg)<br>
+### and there is a visual complement as well:<br> ![photo of cut porcelain](http://artsake.massculturalcouncil.org/blog/artsake/wp-content/uploads/2013/09/Tea.jpg)<br>
 
 <i>This is a learning experience, and it's not as hard as drinking from this cup would be, or as making it was.</i>
