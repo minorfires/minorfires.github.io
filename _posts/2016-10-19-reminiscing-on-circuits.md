@@ -12,8 +12,7 @@ description: A much-needed refresher course.
 
 ---
 
-### I have fiddled, ill-advisedly, with my collection of electronic musical devices, for as long as I can remember. 
-### I generally have made buying decisions re: my equipment with the thought in mind that I could very easily wreck them through weird sound experiments that maybe should not have ever tried.
+### I have fiddled, ill-advisedly, with my collection of electronic musical devices, for as long as I can remember. I generally have made buying decisions re: my equipment with the thought in mind that I could very easily wreck them through weird sound experiments that maybe should not have ever tried.
 
 ---
 
