@@ -3,6 +3,7 @@ layout: post
 title: A frolic through imaginary fields.
 categories: [general, sample]
 tags: [demo, dbtek, sample2]
+description: A crude early exercise.
 ---
 
 

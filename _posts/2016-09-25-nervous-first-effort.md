@@ -3,8 +3,7 @@ layout: post
 title: First Original Post
 categories: [general]
 tags: [amateur, dbyll, minorfires, collapse]
-fullview: true
-comments: true
+description: An anxiety attack on the part of the author.
 ---
 
 ## Here is my concern.

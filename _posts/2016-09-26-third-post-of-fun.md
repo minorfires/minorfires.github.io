@@ -1,8 +1,9 @@
 ---
 layout: post
-title: And having found blankets...a cryptic wrap-up
+title: And having found blankets...
 categories: [general, minorfires]
 tags: [demo, dbtek, sample2]
+description: a cryptic sort of wrap-up
 ---
 <hr/>
 ### We found that repetition builds inertia. <br>
