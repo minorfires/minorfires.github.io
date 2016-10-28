@@ -19,17 +19,15 @@ Here, too, we're in a web (_a metaphorical web, within the __world wide one___) 
 
 If it's clunky and weird to navigate the seemingly endless maze of tutorials and tools, _maybe it should be._ It's a bunch of free stuff that people have left all over the place with the idea that genius isn't all that rare and that everyone should have a shot at doing something great. It's the same idea that made me want to become a librarian. Maybe using a computer in America should be like driving a car in Sweden: **you should have to know something about how it works.**
 
-##All this said, I present the nuts and bolts...
+## All this said, I present the nuts and bolts...
 
-### Editor:
-[link](https://ide.c9.io/minorfires/assignment3)
-### Source file:
-[md](https://preview.c9users.io/minorfires/assignment3/assignment-3-minorfires/2017-project-list.md)
+### Editor: [link](https://ide.c9.io/minorfires/assignment3)
+### Source file: [md](https://preview.c9users.io/minorfires/assignment3/assignment-3-minorfires/2017-project-list.md)
 ### Output files:
-[docx](https://preview.c9users.io/minorfires/assignment3/assignment-3-minorfires/2017-project-list.docx)
-[html](https://preview.c9users.io/minorfires/assignment3/assignment-3-minorfires/2017-project-list.html)
-[odt](https://preview.c9users.io/minorfires/assignment3/assignment-3-minorfires/2017-project-list.odt)
-[pdf](https://preview.c9users.io/minorfires/assignment3/assignment-3-minorfires/2017-project-list.pdf)
+* [docx](https://preview.c9users.io/minorfires/assignment3/assignment-3-minorfires/2017-project-list.docx)
+* [html](https://preview.c9users.io/minorfires/assignment3/assignment-3-minorfires/2017-project-list.html)
+* [odt](https://preview.c9users.io/minorfires/assignment3/assignment-3-minorfires/2017-project-list.odt)
+* [pdf](https://preview.c9users.io/minorfires/assignment3/assignment-3-minorfires/2017-project-list.pdf)
 
 >Also, that perfect music for this work _does exist._ Behold, **Battles:**
 [![video](http://img.youtube.com/vi/N-rc0j1hdkA/0.jpg)](http://www.youtube.com/watch?v=N-rc0j1hdkA)
