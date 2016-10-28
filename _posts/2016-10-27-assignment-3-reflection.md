@@ -9,7 +9,7 @@ description: There's an applicable metaphor for what's happening.
 
 >> You need only to force yourself through the first hundred pages.
 
->>> Perhaps there's some adjustment for the total length; say, 200 pages if it's _Infinite Jest._ So I guess that's a way of describing my text. It's a pause and a breath after the first hundred pages of this class and the program I've just begun.
+>>> Perhaps there's some adjustment for the total length; say, 200 pages if it's _Infinite Jest._ So I guess that's a way of describing my text. It's a pause and a breath after the first "hundred pages" of this class and the program I've just begun, with a sort of map of what's coming up.
 
 #### The lesson is, you only have to commit to something long enough to gain momentum. That part can be really hard, but if what we're doing is at all worth it, then gaining that momentum is the only hard part.
 
