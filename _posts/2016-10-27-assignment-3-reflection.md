@@ -13,7 +13,7 @@ description: There's an applicable metaphor for what's happening.
 
 #### The lesson is, you only have to commit to something long enough to gain momentum. That part can be really hard, but if what we're doing is at all worth it, then gaining that momentum is the only hard part.
 
-That, and maybe troubleshooting the scripts. However, the error messages that came up in the script's trial runs were fairly easy to decipher and it wasn't hard to try and err and persevere to figure it out.
+That, and maybe troubleshooting the scripts. It was fairly easy to follow the layout in the blank file and get Pandoc and TeXlive to function properly, and then get the filename to reproduce itself as the script directed the file conversions. When things got weird, the error messages that came up in the script's trial runs were fairly easy to decipher and it wasn't hard to try and err and persevere to figure it out.
 
 Here, too, we're in a web (_a metaphorical web, within the __world wide one___) of helpful resources. These resources are more or less distributed for free, and that's amazing. I found an SaaS site for testing out my Markdown, which was as helpful as Jekyll, and I didn't even have to save and click between tabs and reload.
 
