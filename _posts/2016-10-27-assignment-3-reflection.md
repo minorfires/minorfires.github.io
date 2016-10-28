@@ -22,7 +22,9 @@ If it's clunky and weird to navigate the seemingly endless maze of tutorials and
 ## All this said, I present the nuts and bolts...
 
 ### Editor: [link](https://ide.c9.io/minorfires/assignment3)
+
 ### Source file: [md](https://preview.c9users.io/minorfires/assignment3/assignment-3-minorfires/2017-project-list.md)
+
 ### Output files:
 * [docx](https://preview.c9users.io/minorfires/assignment3/assignment-3-minorfires/2017-project-list.docx)
 * [html](https://preview.c9users.io/minorfires/assignment3/assignment-3-minorfires/2017-project-list.html)
