@@ -6,7 +6,7 @@ description: A social experiment.
 
 ## Someday, this will all make sense to me.
 
-We definitely did a much better job of coming together on this project. There was certainly a disconnect between the fundamentals in the materials and the pieces that we worked to produce for the assignment.
+We definitely did a much better job of coming together on this project. There was certainly a disconnect between the fundamentals in the materials and the pieces that we worked to produce for the assignment, so it was a lot of one person editing scripts and the other two trying to figure out how.
 
 It ended up being a lot of trial and error, and a lot of searching for resources in an uncertain pool of information and code fixes that had little application to our tasks. More than actually preparing me for some future activity whether in an academic or professional setting, this work prepared me for what happens when I am asked to do something I don't know how to do.
 
