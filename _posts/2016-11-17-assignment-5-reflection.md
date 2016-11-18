@@ -12,7 +12,7 @@ It ended up being a lot of trial and error, and a lot of searching for resources
 
 __I felt like a cat driving a car...__
 
-[![video](https://www.youtube.com/watch?v=-rdLOrOLJiA)](https://www.youtube.com/watch?v=-rdLOrOLJiA)
+[![video](https://www.youtube.com/watch?v=-rdLOrOLJiA/0.jpg)](https://www.youtube.com/watch?v=-rdLOrOLJiA)
 
 ...and no one in the group left feeling terribly confident. 
 
